@@ -102,6 +102,21 @@ Customer_Churn_Prediction
 - Streamlit Deployment
 - Real-Time Prediction Dashboard
 
+
+##  Project Screenshots
+
+### Churn Distribution
+
+![Churn Distribution](images/churn_distribution.png)
+
+### Contract vs Churn
+
+![Contract vs Churn](images/contract_vs_churn.png)
+
+### Feature Importance
+
+![Feature Importance](images/feature_importance.png)
+
 ---
 
 ## Author
