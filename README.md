@@ -58,7 +58,7 @@ This project predicts customer churn for a telecom company using Machine Learnin
 
 ---
 
-##Models Used
+## Models Used
 
 ### Logistic Regression
 Baseline classification model for churn prediction.
@@ -68,7 +68,7 @@ Improved prediction performance and feature importance analysis.
 
 ---
 
-##Key Insights
+## Key Insights
 
 - Month-to-month customers have the highest churn rate.
 - Customers with shorter tenure are more likely to churn.
@@ -78,7 +78,7 @@ Improved prediction performance and feature importance analysis.
 
 ---
 
-##Business Recommendations
+## Business Recommendations
 
 - Encourage long-term contracts.
 - Offer loyalty rewards.
@@ -88,7 +88,7 @@ Improved prediction performance and feature importance analysis.
 
 ---
 
-##Project Structure
+## Project Structure
 
 ```text
 Customer_Churn_Prediction
@@ -104,7 +104,7 @@ Customer_Churn_Prediction
 
 ---
 
-##Future Improvements
+## Future Improvements
 
 - Hyperparameter Tuning
 - XGBoost Model
@@ -113,6 +113,6 @@ Customer_Churn_Prediction
 
 ---
 
-##Author
+## Author
 
 **Prerana S H**
