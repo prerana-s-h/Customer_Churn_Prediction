@@ -4,7 +4,6 @@
 
 This project predicts customer churn for a telecom company using Machine Learning techniques. The goal is to identify customers who are likely to leave the company and provide insights to improve customer retention.
 
----
 
 ## Objectives
 
@@ -15,7 +14,6 @@ This project predicts customer churn for a telecom company using Machine Learnin
 - Identify factors influencing churn
 - Generate business recommendations
 
----
 
 ## Dataset Information
 
@@ -30,7 +28,6 @@ This project predicts customer churn for a telecom company using Machine Learnin
 | 0 | Customer Stayed |
 | 1 | Customer Churned |
 
----
 
 ## Technologies Used
 
@@ -42,7 +39,6 @@ This project predicts customer churn for a telecom company using Machine Learnin
 - Scikit-Learn
 - Jupyter Notebook
 
----
 
 ## Project Workflow
 
@@ -56,7 +52,6 @@ This project predicts customer churn for a telecom company using Machine Learnin
 8. Model Evaluation
 9. Business Insights
 
----
 
 ## Models Used
 
@@ -66,7 +61,6 @@ Baseline classification model for churn prediction.
 ### Random Forest Classifier
 Improved prediction performance and feature importance analysis.
 
----
 
 ## Key Insights
 
@@ -76,7 +70,6 @@ Improved prediction performance and feature importance analysis.
 - Gender has minimal impact on churn.
 - Long-term contracts improve customer retention.
 
----
 
 ## Business Recommendations
 
@@ -86,7 +79,6 @@ Improved prediction performance and feature importance analysis.
 - Improve onboarding for new customers.
 - Enhance customer support services.
 
----
 
 ## Project Structure
 
@@ -102,7 +94,6 @@ Customer_Churn_Prediction
 └── README.md
 ```
 
----
 
 ## Future Improvements
 
